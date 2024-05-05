@@ -42,7 +42,7 @@ function preload() {
   somRebatidaParede = loadSound("https://github.com/orangeavura/Pong_Guigs_Web/blob/main/Audios/Pong_Atari_2_Rebatida.wav");
   somRebatidaLateral = loadSound("https://github.com/orangeavura/Pong_Guigs_Web/blob/main/Audios/Pong_Atari_3_Rebatida.wav");
 
-  menuImg = loadImage("/Users/celsolembi/Documents/Processing/Projetos/Pong_Guigs_Web/Menu/Pong_Guigs_Menu_1.png");
+  menuImg = loadImage("https://github.com/orangeavura/Pong_Guigs_Web/blob/main/Menus/Pong_Guigs_Menu_1.png");
 }
 
 function setup() {
