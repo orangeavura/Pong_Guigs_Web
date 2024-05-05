@@ -38,9 +38,9 @@ let arquivosImagens = [];
 let indiceImagem;
 
 function preload() {
-  somRebatidaParedao = loadSound("/Users/celsolembi/Documents/Processing/Projetos/Pong_Guigs_Web/Audios/Pong_Atari_1_Rebatida.wav");
-  somRebatidaParede = loadSound("/Users/celsolembi/Documents/Processing/Projetos/Pong_Guigs_Web/Audios/Pong_Atari_2_Rebatida_2.wav");
-  somRebatidaLateral = loadSound("/Users/celsolembi/Documents/Processing/Projetos/Pong_Guigs_Web/Audios/Pong_Atari_3_Rebatida_3.wav");
+  somRebatidaParedao = loadSound("https://github.com/orangeavura/Pong_Guigs_Web/blob/main/Audios/Pong_Atari_1_Rebatida.wav");
+  somRebatidaParede = loadSound("https://github.com/orangeavura/Pong_Guigs_Web/blob/main/Audios/Pong_Atari_2_Rebatida.wav");
+  somRebatidaLateral = loadSound("https://github.com/orangeavura/Pong_Guigs_Web/blob/main/Audios/Pong_Atari_3_Rebatida.wav");
 
   menuImg = loadImage("/Users/celsolembi/Documents/Processing/Projetos/Pong_Guigs_Web/Menu/Pong_Guigs_Menu_1.png");
 }
