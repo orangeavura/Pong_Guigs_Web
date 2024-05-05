@@ -33,7 +33,7 @@ let jogoPausado = false;
 let menuAtivo = true;
 let reiniciarJogoAoVoltarMenu = false;
 
-let pastaImagens = "/Users/celsolembi/Documents/Processing/Projetos/Pong_Guigs_Web/Imagens";
+let pastaImagens = "https://github.com/orangeavura/Pong_Guigs_Web/tree/main/Imagens";
 let arquivosImagens = [];
 let indiceImagem;
 
